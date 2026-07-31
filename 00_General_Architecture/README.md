@@ -43,12 +43,3 @@ By the end of this module, you will be able to:
 
 ---
 
-## 📝 To-Do (You will add later)
-
-- Add hand-drawn/simple block diagram  
-- Add your own architecture notes  
-- Add register map examples  
-- Add comparison between different MCU families  
-
----
-
